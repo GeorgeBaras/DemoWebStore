@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+
+
+@{
+    
+    var client = new WebClient();
+    string helper = "";
+    string helper1 = "";
+    string helper2 = "";
+
+    string extension = ".jpg";
+
+    //Get a random item to display
+    Random r = new Random();
+    string itemID = r.Next(1, 101).ToString();
+    
+    
+    //Top rated 
+    string url2 = "http://localhost:2764/api/Recs/george2/Dataset.txt/top/"+ "0/9";
+    string json2 = client.DownloadString(url2);
+
+    System.Text.StringBuilder sb2 = new System.Text.StringBuilder();
+    sb2.Append(json2);
+    sb2.Remove(0, 1);
+    sb2.Remove(sb2.Length - 1, 1);
+    helper2 = sb2.ToString();
+    string[] itemIDs2 = helper2.Split(',');
+    sb2.Clear(); 
+    
+}
+
+<h2> Welcome to myDemoStore.</h2>
+<p>You can login by using the top right options of the website.</p>
+<p>Go to the "Buy" tab to browse items and see recommendations for them as well as the logged in user.</p>
+
+
+<br /><br />
+<h3>Top Rated Products</h3>
+@{
+    <div class="row">
+        @foreach (var i in itemIDs2)
+        {
+            <div class="col-md-4">
+
+                <img src="~/Content/img/@i.ToString()@extension " style="width: 150px" />
+                <h5> @i.ToString() </h5>
+            </div>
+        }
+    </div>
+}

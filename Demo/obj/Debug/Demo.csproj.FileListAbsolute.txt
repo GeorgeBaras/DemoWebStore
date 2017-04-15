@@ -1,0 +1,330 @@
+C:\Users\George\Desktop\Demo\Demo\bin\Demo.dll.config
+C:\Users\George\Desktop\Demo\Demo\bin\Demo.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Demo.pdb
+C:\Users\George\Desktop\Demo\Demo\bin\Antlr3.Runtime.dll
+C:\Users\George\Desktop\Demo\Demo\bin\EntityFramework.dll
+C:\Users\George\Desktop\Demo\Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Newtonsoft.Json.dll
+C:\Users\George\Desktop\Demo\Demo\bin\Owin.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Helpers.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Mvc.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Optimization.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Razor.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.WebPages.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\George\Desktop\Demo\Demo\bin\WebGrease.dll
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Helpers.xml
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Mvc.xml
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Optimization.xml
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.Razor.xml
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.WebPages.xml
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\George\Desktop\Demo\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Newtonsoft.Json.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\George\Desktop\Demo\Demo\bin\EntityFramework.xml
+C:\Users\George\Desktop\Demo\Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\George\Desktop\Demo\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\George\Desktop\Demo\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Demo\Demo\obj\Debug\Demo.dll
+C:\Users\George\Desktop\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Demo.dll.config
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Demo.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Demo.pdb
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Antlr3.Runtime.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Newtonsoft.Json.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Owin.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Helpers.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Mvc.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Optimization.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Razor.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\WebGrease.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Helpers.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Mvc.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Optimization.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Razor.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Newtonsoft.Json.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\obj\Debug\Demo.dll
+C:\Users\George\Desktop\Final Versions\DemoStore\Demo\obj\Debug\Demo.pdb
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Demo.dll.config
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Demo.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Demo.pdb
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Antlr3.Runtime.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Newtonsoft.Json.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Owin.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Helpers.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Mvc.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Optimization.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Razor.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\WebGrease.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Helpers.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Mvc.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Optimization.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.Razor.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Newtonsoft.Json.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\obj\Debug\Demo.dll
+C:\Users\gmpar\Desktop\Final Versions\DemoStore\Demo\obj\Debug\Demo.pdb
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Demo.dll.config
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Demo.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Demo.pdb
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Antlr3.Runtime.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\EntityFramework.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Newtonsoft.Json.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Owin.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Helpers.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Mvc.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Optimization.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Razor.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.WebPages.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\WebGrease.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Helpers.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Mvc.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Optimization.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.Razor.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.WebPages.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Newtonsoft.Json.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\EntityFramework.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\obj\Debug\Demo.dll
+C:\Users\gmpar\Desktop\DemoStore - Copy\Demo\obj\Debug\Demo.pdb
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Demo.dll.config
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Demo.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Demo.pdb
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Antlr3.Runtime.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\EntityFramework.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Newtonsoft.Json.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Owin.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Helpers.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Mvc.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Optimization.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Razor.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.WebPages.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\WebGrease.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Helpers.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Mvc.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Optimization.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.Razor.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.WebPages.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Newtonsoft.Json.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\EntityFramework.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\obj\Debug\Demo.dll
+C:\Users\gmpar\Desktop\F I N A L\DemoStore - Copy\Demo\obj\Debug\Demo.pdb
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Demo.dll.config
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Demo.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Demo.pdb
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Antlr3.Runtime.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\EntityFramework.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Newtonsoft.Json.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Owin.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Helpers.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Mvc.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Optimization.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Razor.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.WebPages.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\WebGrease.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Helpers.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Mvc.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Optimization.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.Razor.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.WebPages.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Newtonsoft.Json.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Antlr3.Runtime.pdb
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\EntityFramework.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\obj\Debug\Demo.dll
+C:\Users\gmpar\Desktop\FINAL_LOCAL\DemoStore\Demo\obj\Debug\Demo.pdb

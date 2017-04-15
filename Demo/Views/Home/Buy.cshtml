@@ -1,0 +1,173 @@
+﻿@using Microsoft.AspNet.Identity
+
+@{
+    ViewBag.Title = "Buy";
+}
+
+@{
+    var client = new WebClient();
+    string helper = "";
+    string helper1 = "";
+    string helper2 = "";
+
+    string extension = ".jpg";
+
+    //Get a random item to display
+    Random r = new Random();
+    string itemID = r.Next(1, 101).ToString();
+
+
+    //Similar Items
+    string url = "http://localhost:2764/api/Recs/george2/Dataset.txt/knn_similar/" + itemID + "/3";
+    string json = client.DownloadString(url);
+
+    System.Text.StringBuilder sb = new System.Text.StringBuilder();
+    sb.Append(json);
+    sb.Remove(0, 1);
+    sb.Remove(sb.Length - 1, 1);
+    helper = sb.ToString();
+    string[] itemIDs = helper.Split(',');
+    sb.Clear();
+    ///////////////////////
+ 
+    
+}
+
+
+
+@{
+   
+    if (User.Identity.GetUserName().IsEmpty())
+    {
+        <h5>Please Login</h5>
+        //Display a random item
+    
+    <table>
+    <tr>
+        <td>
+            <img src="~/Content/img/@itemID@extension " />
+        </td>
+        <td>
+            <img src="~/Content/img/w.jpg" />
+        </td>
+        <td>
+            <div style="float:left">
+                <h3>@itemID Item Description</h3>
+                <p style="width: 250px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet pellentesque odio vel vestibulum. Cras mi nisi, suscipit quis nisl porttitor, sagittis cursus mauris. Phasellus id elit a massa elementum tempus. Cras hendrerit lacus nec tellus fringilla, in tincidunt lacus hendrerit. Donec posuere venenatis rhoncus.</p>
+            </div>
+        </td>
+        <td>
+            <p><a href="" class="btn btn-primary btn-large" style="width: 100px">Next</a></p>
+        </td>
+        <td>
+            <img src="~/Content/img/w.jpg" />
+        </td>
+        <td>
+            <!--Display items relevant to that item on the side//////////////////////// -->
+
+            <h3>Related Products</h3>
+
+            <div>
+                @foreach (var i in itemIDs)
+                {
+                    <div>
+
+                        <img src="~/Content/img/@i.ToString()@extension " style="width: 100px" />
+                        <h5> @i.ToString() </h5>
+                    </div>
+                }
+            </div>
+           <!-- /////////////////////////////////////////////////////////////////////////-->
+        </td>
+    </tr>
+</table>
+            /////////////////////////////////////////////////////////////////////////
+    
+    
+    
+    
+    
+    
+    }
+    else
+    {
+        string my_user = User.Identity.GetUserName().ToString();
+        <h5>Welcome @my_user </h5>
+        //Display a random item
+    
+    <table>
+    <tr>
+        <td>
+            <img src="~/Content/img/@itemID@extension " />
+        </td>
+        <td>
+            <img src="~/Content/img/w.jpg" />
+        </td>
+        <td>
+            <div style="float:left">
+                <h3>@itemID Item Description</h3>
+                <p style="width: 250px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed laoreet pellentesque odio vel vestibulum. Cras mi nisi, suscipit quis nisl porttitor, sagittis cursus mauris. Phasellus id elit a massa elementum tempus. Cras hendrerit lacus nec tellus fringilla, in tincidunt lacus hendrerit. Donec posuere venenatis rhoncus.</p>
+            </div>
+        </td>
+        <td>
+            <p><a href="" class="btn btn-primary btn-large" style="width: 100px">Next</a></p>
+        </td>
+        <td>
+            <img src="~/Content/img/w.jpg" />
+        </td>
+        <td>
+            <!--Display items relevant to that item on the side//////////////////////// -->
+
+            <h3>Related Products</h3>
+
+            <div>
+                @foreach (var i in itemIDs)
+                {
+                    <div>
+
+                        <img src="~/Content/img/@i.ToString()@extension " style="width: 100px" />
+                        <h5> @i.ToString() </h5>
+                    </div>
+                }
+            </div>
+           <!-- /////////////////////////////////////////////////////////////////////////-->
+        </td>
+    </tr>
+</table>
+        //Display items best for the user underneath
+<br />
+    
+    }//end_else
+}
+
+@{
+//Best for the user
+    if (!User.Identity.GetUserName().IsEmpty()) {
+
+    string url1 = "http://localhost:2764/api/Recs/george2/Dataset.txt/knn_best/" + User.Identity.GetUserName().ToString() + "/3";
+    string json1 = client.DownloadString(url1);
+
+    System.Text.StringBuilder sb1 = new System.Text.StringBuilder();
+    sb1.Append(json1);
+    sb1.Remove(0, 1);
+    sb1.Remove(sb1.Length - 1, 1);
+    helper1 = sb1.ToString();
+    string[] itemIDs1 = helper1.Split(',');
+    sb1.Clear();
+        
+    <h3>Customer like you have rated highly the following items</h3>
+
+    <div class="row">
+        @foreach (var i in itemIDs1)
+        {
+            <div class="col-md-4">
+
+                <img src="~/Content/img/@i.ToString()@extension " style="width: 200px" />
+                <h5> @i.ToString() </h5>
+            </div>
+        }
+    </div>
+        
+    } // end if
+    
+}
